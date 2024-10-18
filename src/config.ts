@@ -1,3 +1,9 @@
+export const DELAY_BEFORE_CLOSE = 3_000;
+export const DELAY_AFTER_CLOSE = 2_000;
+export const DELAY_INITIAL = 4_000;
+
+export const SERVICES_AMOUNT = 5;
+
 export enum Service {
   GMAIL,
   DISCORD,
